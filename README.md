@@ -3,13 +3,13 @@
 <a href="https://prediktera.com/software/"><img src="https://prediktera.com/wp-content/uploads/2022/09/BreezeHighRes.png" alt="Prediktera Breeze" width="150"></a><br />
 <a href="https://prediktera.com/software/"><img src="https://prediktera.com/wp-content/uploads/2022/09/BreezeRuntime.png" alt="Prediktera Breeze Runtime" width="340"></a><br />
 
-Examples on how to train deep learning image segmentation model and export to ONNX format for Breeze and Breeze Runtime.
+Examples on how to train deep learning object detection models and export to ONNX format for Breeze and Breeze Runtime.
 
 See [Prediktera Help](https://help.prediktera.com/breeze/onnx-image-segmentation) for more information on how to apply ONNX models as image segmentation models.
 
 ## Examples
 
-Current examples on how to train deep learning image segmentation models for Breeze and Breeze Runtime.
+Current examples on how to train deep learning object detection and image segmentation models for Breeze and Breeze Runtime.
 
 ### YOLOv5
 
