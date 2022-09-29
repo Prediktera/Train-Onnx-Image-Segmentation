@@ -1,7 +1,7 @@
 # Train Onnx Image Segmentation
 
 <a href="https://prediktera.com/software/"><img src="https://prediktera.com/wp-content/uploads/2022/09/BreezeHighRes.png" alt="Prediktera Breeze" width="150"></a><br />
-<a href="https://prediktera.com/software/"><img src="https://prediktera.com/wp-content/uploads/2022/09/BreezeRuntime.png" alt="Prediktera Breeze Runtime" width="340"></a><br />
+<a href="https://prediktera.com/software/"><img src="https://prediktera.com/wp-content/uploads/2022/09/BreezeRuntime.png" alt="Prediktera Breeze Runtime" width="332"></a><br />
 
 Examples on how to train deep learning object detection models and export to ONNX format for Breeze and Breeze Runtime.
 
